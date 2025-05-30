@@ -1,0 +1,12 @@
+{
+    "ID": "7959a2c5-3d65-4aaa-bd76-f45b0a0702af",
+    "ActionKeyword": "choco",
+    "Name": "Chocolatey Package Manager",
+    "Description": "Install and manage packages using Chocolatey directly from Flow Launcher",
+    "Author": "Jayesh Vegda",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/jayeshvegda/Flow.Launcher.Plugin.Choco",
+    "IcoPath": "Images/choco.png",
+    "ExecuteFileName": "main.py"
+} 
